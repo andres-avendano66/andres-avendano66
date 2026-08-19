@@ -43,7 +43,7 @@ Estudiante de **Ingeniería de Sistemas** enfocado en **Aseguramiento de Calidad
 #### 2. 🧪 [Responsive UI Testing & Layout](https://github.com/andres-avendano66/responsive-ui-testing-html-css)
 * **Descripción:** Proyecto enfocado en maquetación responsiva, pruebas de diseño adaptable en diferentes tamaños de pantalla y verificación visual CSS.
 * **Tecnologías:** HTML5, CSS3, Pruebas UI.
-* 🔗 [Ver Código en GitHub](https://github.com/andres-avendano66/responsive-ui-testing-html-css) | 🌐 [Demo en Vivo (GitHub Pages)](https://andres-avendano66.github.io/responsive-ui-testing-html-css/)
+* 🔗 [Ver Código en GitHub](https://github.com/andres-avendano66/responsive-ui-testing-html-css) | 🌐 [Demo en Vivo (GitHub Pages)](https://andres-avendano66.github.io/responsive-ui-testing-html-cssresponsive-ui-testing-html-css/)
 
 ---
 
